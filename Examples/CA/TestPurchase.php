@@ -26,7 +26,7 @@ $status_check = 'false';
 //Optional - Set for Multi-Currency only
 //$amount must be 0.00 when using multi-currency
 $mcp_amount = '500'; //penny value amount 1.25 = 125
-$mcp_currency_code = '840'; //ISO-4217 country currency number
+$mcp_currency_code = '124'; //ISO-4217 country currency number 124 - CAD, 840 - USD
 
 /*********************** Transactional Associative Array **********************/
 
